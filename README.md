@@ -2,10 +2,6 @@
 
 An AI-powered movie recommendation system built with **Flask**, **Python**, and **Machine Learning** that suggests similar movies based on user-selected films through an interactive Netflix-inspired web interface.
 
-![GitHub stars](https://img.shields.io/github/stars/Sourabhnamdev9981/movie-recommender-ai)
-![GitHub forks](https://img.shields.io/github/forks/Sourabhnamdev9981/movie-recommender-ai)
-![GitHub issues](https://img.shields.io/github/issues/Sourabhnamdev9981/movie-recommender-ai)
-
 ## ✨ Features
 
 * 🎥 Browse movies with poster-based selection
@@ -109,14 +105,3 @@ http://127.0.0.1:5000
 * Movie ratings and reviews
 * Cloud deployment
 
-## 👨‍💻 Contributors
-
-- **Sourabh Namdev** – Frontend Development, Application Enhancement, Version Control & Deployment
-
-- **Palak Rajput** – Machine Learning Pipeline, Data Processing & Core Recommendation System
-
-## Connect With us
-GitHub: [@Sourabhnamdev9981](https://github.com/Sourabhnamdev9981)
-GitHub: [@PalakRajput-AI](https://github.com/PalakRajput-AI)
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
