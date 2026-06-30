@@ -36,15 +36,6 @@ Movie-Recommender-AI/
 └── README.md
 ```
 
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Sourabhnamdev9981/movie-recommender-ai.git
-cd movie-recommender-ai
-```
-
 Create a virtual environment:
 
 ```bash
