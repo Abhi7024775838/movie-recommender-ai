@@ -2,7 +2,7 @@
 
 An AI-powered movie recommendation system built with **Flask**, **Python**, and **Machine Learning** that suggests similar movies based on user-selected films through an interactive Netflix-inspired web interface.
 
-## ✨ Features
+## ✨ Features.
 
 * 🎥 Browse movies with poster-based selection
 * 🔍 Search movies instantly
